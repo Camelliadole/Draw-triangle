@@ -15,3 +15,4 @@ while i <= j:
             #break
         print (a)
     i += 1
+ #this is my idea to solve this pro, but don't know why it not run correctly
